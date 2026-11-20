@@ -1,0 +1,8 @@
+[package]
+name = "kocham-rusta"
+version = "0.1.0"
+edition = "2021"
+description = "Okno, które mówi, że kocham Rusta, Copilota i Gemini."
+
+[dependencies]
+eframe = "0.37.0"
